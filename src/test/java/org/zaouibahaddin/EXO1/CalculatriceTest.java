@@ -1,10 +1,11 @@
-package org.zaouibahaddin;
+package org.zaouibahaddin.EXO1;
 import org.junit.jupiter.api.Assertions;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.mockito.Mock;
-import org.mockito.Mockito;
 import org.mockito.junit.MockitoJUnitRunner;
+import org.zaouibahaddin.EXO1.Calculatrice;
+
 import static org.mockito.Mockito.*;
 @RunWith(MockitoJUnitRunner.class)
 public class CalculatriceTest {
